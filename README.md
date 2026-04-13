@@ -126,7 +126,7 @@ SpaceLandMapper/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-link>
+git clone (https://github.com/theabhay112/SpaceLandMapper/tree/main)
 cd SpaceLandMapper
 ```
 
@@ -140,7 +140,7 @@ pip install tensorflow streamlit  pandas matplotlib scikit-learn
 
 ### 3. Run the training script
 ```bash
-python test.ipynb
+python TrainModel.ipynb
 ```
 
 ### 4. Run the Streamlit app
